@@ -1,6 +1,6 @@
 # Shaikh Infra Contracts
 
-Civil engineering and infrastructure related work by Sahil Shaikh.
+Civil engineering and infrastructure related work by Sohel Shaikh.
 
 ## Projects
 - Plot layout designs
